@@ -27,26 +27,19 @@ CSV/Excel	Raw data input
 The dashboard includes:
 
 KPI Cards: Total Sales (₹2.3M), Profit (₹286.40K), and Total Orders (9994)
-
 Monthly Profit Bar Chart
-
 Top 6 States by Sales (Horizontal Bar)
-
 Sales Distribution by Category (Donut Chart)
-
 Yearly Sales Trend (Line Chart)
-
 Interactive Filters: Year, State, and Category slicers
 
-📸 Preview of Dashboard
 
 🧹 Data Preprocessing
 Data was preprocessed using Python:
-
 Removed nulls and duplicates
-
 Converted data types
-
 Grouped and aggregated sales metrics
-
 Exported cleaned data to be used in Power BI
+![Screenshot 2025-05-29 114951](https://github.com/user-attachments/assets/3302869f-8218-4af9-9fa9-047fcc71a90d)
+
+
